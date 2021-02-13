@@ -9,9 +9,9 @@
 
 <div>
  <p>
-I am a full stack developer Well-qualified for a wide range of programming languages and frameworks. Detail-oriented and active learner. Collaborative team player with excellent technical abilities offering 4 years of web development experience.
+I am a full stack developer well-qualified for a wide range of programming languages and frameworks. Detail-oriented and active learner. Collaborative team player with excellent technical abilities offering 4 years of web development experience.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+I have excellent problem-solving, design, and coding skills, as well as an ability to convert requirements into desirable results.
 </p>
 </div>
 
