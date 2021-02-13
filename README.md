@@ -4,7 +4,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Dongha Kang](https://cleardh.github.io/portfolio)
+### Hi there, I'm [Dongha Kang](https://cleardh.github.io/portfolio)
 > Software Engineer at [Iris Booth](https://irisbooth.com)
 
 <div>
