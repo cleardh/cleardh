@@ -30,7 +30,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://cleardh.github.io/portfolio" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://cleardh.github.io/portfolio-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/donghakang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@donghakang-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:cleardh@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cleardh@hotmail.com-blue?style=flat&logo=gmail"></a>
