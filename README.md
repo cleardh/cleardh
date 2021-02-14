@@ -5,7 +5,7 @@
 </p>
 
 ### Hi there, I'm [Dongha Kang](https://cleardh.github.io/portfolio)
-> Software Engineer at [Iris Booth](https://irisbooth.com)
+> Full Stack Developer at [Iris Booth](https://irisbooth.com)
 
 <div>
  <p>
