@@ -26,7 +26,7 @@ I have excellent problem-solving, design, and coding skills, as well as an abili
 
 ### Github Stats
 
-[![Dongha Kang GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleardh&show_icons=true&count_private=true&theme=react)](https://github.com/cleardh)
+[![Dongha Kang GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleardh&show_icons=true&count_private=true)](https://github.com/cleardh)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
