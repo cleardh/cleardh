@@ -3,7 +3,7 @@
 
 <div>
  <p>
-I am a full stack developer well-qualified for a wide range of programming languages and frameworks. Detail-oriented and active learner. Collaborative team player with excellent technical abilities offering 4 years of web development experience.
+Well-qualified software developer familiar with JavaScript frameworks and libraries. Detail-oriented and active learner who always keep automation in mind. Collaborative team player with excellent technical abilities offering 6 years of web development experience.
 
 I have excellent problem-solving, design, and coding skills, as well as an ability to convert requirements into desirable results.
 </p>
